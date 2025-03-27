@@ -1,5 +1,7 @@
 plugins {
     id("application")
+    `maven-publish`
+    id("com.gradle.plugin-publish") version "1.3.0"
 }
 
 application {

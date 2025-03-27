@@ -1,10 +1,4 @@
 {
-  "installation": {
-    "version": "20.1.2",
-    "plugins": {
-      "@nx/gradle": "20.1.2"
-    }
-  },
   "plugins": [
     {
       "plugin": "@nx/gradle",
