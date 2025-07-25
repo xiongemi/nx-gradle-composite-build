@@ -4,3 +4,7 @@ build/
 .nx/installation
 .nx/cache
 .nx/workspace-data
+
+.specstory
+.claude
+.cursorindexingignore

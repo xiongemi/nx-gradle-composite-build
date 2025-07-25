@@ -1,5 +1,6 @@
 plugins {
     id("application")
+    id("dev.nx.gradle.project-graph") version("0.1.0")
 }
 
 application {
